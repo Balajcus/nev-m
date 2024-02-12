@@ -64,6 +64,10 @@ namespace nevím
 
             Console.WriteLine("Za podmínkou");
 
+            Console.WriteLine("zapomnen");
+            5614956
+            Console.WriteLine("zapen");
+
 
             Console.ReadKey();
 
